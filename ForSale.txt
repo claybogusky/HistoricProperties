@@ -1,0 +1,32 @@
+Total rows found:  107  Matching rows:  107
+
+====== Summary of Historic Property for Sale in Harding Township ======
+                      Sun Apr  5 19:18:21 2020
+
+Historic Property Address:  607 Spring Valley Rd
+Historic Property Address:  613 Spring Valley Rd
+Historic Property Address:  1 Hartley Farms Rd
+Historic Property Address:  631 Spring Valley Rd
+Historic Property Address:  207 Blue Mill Rd
+Historic Property Address:  3 Thanksgiving Rd
+Historic Property Address:  1 Thanksgiving Rd
+Historic Property Address:  579 Van Beuren Rd
+Historic Property Address:  27 Red Gate Rd
+Historic Property Address:  6 Great Oaks Rd
+Historic Property Address:  502 Van Beuren Rd
+Historic Property Address:  142 Blue Mill Rd
+Historic Property Address:  545 Green Village Rd
+Historic Property Address:  42 Blue Mill Rd
+Historic Property Address:  39 Pleasantville Rd
+Historic Property Address:  7 Lees Hill Rd
+Historic Property Address:  1 Lees Hill Rd
+Historic Property Address:  9 Village Rd
+Historic Property Address:  19 Village Rd
+Historic Property Address:  5 Village Rd
+Historic Property Address:  3 Village Rd
+Historic Property Address:  566 Tempe Wick Rd
+Historic Property Address:  44 Lake Trl E
+Historic Property Address:  121 Lees Hill Rd
+Historic Property Address:  137 Lees Hill Rd
+
+Total number of historic properties for sale = 25 .
